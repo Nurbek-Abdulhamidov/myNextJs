@@ -1,0 +1,10 @@
+.navbar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.careers {
+  color: red;
+}
+/*# sourceMappingURL=Navigation.module.css.map */
